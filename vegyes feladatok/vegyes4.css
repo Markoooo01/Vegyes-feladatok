@@ -1,0 +1,9 @@
+body{
+    margin-left: 50px;
+}
+ul{
+    list-style-image: url(smiley2.png);
+}
+ol{
+    list-style: none;
+}

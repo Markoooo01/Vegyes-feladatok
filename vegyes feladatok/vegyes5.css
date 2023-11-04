@@ -1,0 +1,14 @@
+div{
+    border: 1px solid gray;
+    padding: 30px 0px 30px 0px;
+    margin: 0px 50px 0px 50px;
+}
+
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+
+a{
+    text-decoration: none;
+}

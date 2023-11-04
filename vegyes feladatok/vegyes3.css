@@ -1,0 +1,15 @@
+td{
+    border: 3px solid black;
+    font-size: 200%;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+#kep{
+    background-image: url(smiley2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
